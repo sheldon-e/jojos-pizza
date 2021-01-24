@@ -3354,6 +3354,10 @@ body.is-menu-visible #menu .close {
     padding: 0 2.5em;
 }
 
+.inner .logo {
+    width:20%;
+}
+
 @media screen and (max-width: 736px) {
 
     #wrapper > * > .inner {
